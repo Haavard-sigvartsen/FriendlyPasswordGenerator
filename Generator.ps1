@@ -1,4 +1,4 @@
-$Wordlist = Import-Csv -LiteralPath "C:\Users\hsi600\OneDrive - Helse Nord RHF\Documents\PowerShell\EvenFriendlierPasswordGenerator\Wordlist.csv"
+$Wordlist = Import-Csv -LiteralPath ""
 cls
 
 $Password = $null
